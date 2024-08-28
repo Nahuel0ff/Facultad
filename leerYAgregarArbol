@@ -29,6 +29,7 @@ type
 //Programa Principal
 var
 	a:arbol;
+	num:integer;
 BEGIN
 	a:=nil;
 	read(num);
